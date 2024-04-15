@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.fixed-height-div-with-overflow{
+   height: 300px;
+  overflow-y: scroll;
+}
+.list-item{
+  display: flex;
+  margin: 20px;
+  text-align: left;
+  padding: :20px;
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+
+}
+.bible-list-item{
+  display: flex;
+  margin: 20px;
+  text-align: left;
+  padding: :20px;
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
